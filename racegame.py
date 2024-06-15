@@ -1,3 +1,5 @@
+'''A simple two player CAR RACE GAME'''
+
 import turtle
 road=turtle.Screen()
 road.bgpic("D:\MY DETAILS (THIRU)\LMES\game2\Track.gif")
